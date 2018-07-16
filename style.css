@@ -1,0 +1,36 @@
+body{
+    margin:10px;
+    text-shadow: -1px -1px 0 white, 1px 1px 0 white, -1px 1px 0 white, 1px -1px 0 white;
+}
+
+.header{
+    background-color: black;
+    text-align:center;
+    margin: auto; 
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.left_panel {
+    width: 50%;
+    float: left;   
+}
+
+.left_panel h2 {
+    text-decoration: underline;
+}
+
+.right_panel {
+    width: 50%;
+    text-align: right;
+    float: right;
+}
+
+.right_panel h2 {
+    text-decoration: underline;
+}
+
+.footer{
+    clear: all;
+    text-align: center;
+}
