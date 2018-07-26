@@ -1,0 +1,23 @@
+body {
+    margin: 10px;
+}
+
+.header {
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+
+}
+
+.midcenter {
+    margin: 10px;
+    text-align: center;
+}
+
+
+
+.footer {
+    font-size: 10px;
+    clear: all;
+    text-align: center;
+}
