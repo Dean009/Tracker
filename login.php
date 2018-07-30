@@ -7,19 +7,16 @@
     <link rel = "stylesheet" type = "text/css" href = "stylelogin.css" >
     <title>Login To Rota System</title>
 </head>
+<body onload ="form.reset();">
 
 <?php
-
-
-
-
-
-
+   
+   
 
 
 ?>
+    
 
-<body onload ="form.reset();">
 
 <div class ="container">
 
