@@ -9,11 +9,6 @@
 </head>
 <body>
 
-<?php
-
-?>
-
-
 <div class ="container">
 
     <div class ="header">

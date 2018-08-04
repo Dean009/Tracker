@@ -28,7 +28,7 @@ if (isset($_POST['submitButton'])){
                 header("Location: ../signuppage.php?signuppage=success");
                 exit();
             }
-        }
+            }
         }
 }else{
     header("Location: ../signuppage.php");
