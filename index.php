@@ -17,7 +17,7 @@
 
     <div class = "left_panel">
         <h2>Current System</h2>
-        <?php
+    <?php
 		include_once 'dbh.php';
 		$sql = "SELECT username FROM login";	
 		$result = mysqli_query($connect, $sql);

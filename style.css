@@ -4,7 +4,6 @@ body{
 }
 
 .header{
-    background-color: black;
     text-align:center;
     margin: auto; 
     text-decoration: underline;
@@ -31,7 +30,34 @@ body{
 }
 
 .footer{
+    position: absolute;
+    bottom: 0;
+    width: 98%;
     font-size: 10px;
     clear: all;
     text-align: center;
+}
+
+.DataTable{
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    float: center;
+}
+
+.addData_panel{
+    position: sticky;
+    display: inline-grid;
+    text-align: left;
+    border-radius: 50%;
+}
+
+.sub{
+    margin-top: 20px;
+    margin-left: 55px;
+}
+
+
+.container{
+    padding: 10px;
 }
